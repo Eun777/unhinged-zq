@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Spark AI - Let Your AI Find Your Match",
+  title: "unhinged - Let Your AI Find Your Match",
   description: "AI-powered speed dating that saves you time and finds your perfect match",
   generator: "v0.app",
   icons: {
